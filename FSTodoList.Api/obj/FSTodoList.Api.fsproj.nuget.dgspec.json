@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/FSTodoList.Api.fsproj": {}
+    "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/FSTodoList.Api.fsproj": {}
   },
   "projects": {
-    "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/FSTodoList.Api.fsproj": {
+    "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/FSTodoList.Api.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/FSTodoList.Api.fsproj",
+        "projectUniqueName": "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/FSTodoList.Api.fsproj",
         "projectName": "FSTodoList.Api",
-        "projectPath": "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/FSTodoList.Api.fsproj",
+        "projectPath": "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/FSTodoList.Api.fsproj",
         "packagesPath": "/Users/dderman/.nuget/packages/",
-        "outputPath": "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/obj/",
+        "outputPath": "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dderman/.nuget/NuGet/NuGet.Config"

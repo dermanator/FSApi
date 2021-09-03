@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WeatherForecast.fs" />
+    <Compile Include="Controllers/BaseController.fs" />
+    <Compile Include="Controllers/JobsController.fs" />
+    <Compile Include="Controllers/WeatherForecastController.fs" />
+    <Compile Include="Startup.fs" />
+    <Compile Include="Program.fs" />    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.9" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.1" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\FSTodoList.EF\FSTodoList.EF.csproj" />
+  </ItemGroup>
+
+</Project>

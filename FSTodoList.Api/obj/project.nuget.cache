@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBYZOXBdAeBgRJj27DY7R6KeKGIk2O9e0YqhkGsNSuh1v+wk6NmAZPMMDEzof4LOVi/4lceBNzcg7RIfKvXBXg==",
+  "dgSpecHash": "d+gUPbg2lVIi905F9cHPvFGZO6oDrkMtIhSGjVnhiYI0D5nQdN8x5ZHVAe7H6CrHx7LM2Vw3PbedQSQjRaEREQ==",
   "success": true,
-  "projectFilePath": "/Users/dderman/dev/fs/FSTodoList/FSTodoList.Api/FSTodoList.Api.fsproj",
+  "projectFilePath": "/Users/dderman/dev/fs/FSToDoList/FSTodoList.Api/FSTodoList.Api.fsproj",
   "expectedPackageFiles": [
     "/Users/dderman/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
     "/Users/dderman/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.9/microsoft.aspnetcore.jsonpatch.5.0.9.nupkg.sha512",
